@@ -20,7 +20,7 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 
 ### 1. Articles universitaires
 - **Description** : Articles de presse de l'université de langues de Strasbourg sur l'utilisation du logiciel Obsidian lors de l'analyse de donnée linguistiques et historiques.
-- **Technologies utilisées** : Obsidian.md, HTML, Wordpress
+- **Technologies utilisées** : Obsidian.md, dataview, HTML, Wordpress
 - **Liens** :
   	- [Feuillets du Nord, Sagas islandaises : Quel support pour les synthétiser ? Obsidian 1](https://nord.hypotheses.org/5097)
   	- [Feuillets du Nord, # Obsidian 2](https://nord.hypotheses.org/6575)
