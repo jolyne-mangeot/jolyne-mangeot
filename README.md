@@ -16,7 +16,7 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 - **Python** : Approfondissement et résolution de problèmes, algorithmie
 - **Flask** : Introduction aux applications et intégrations Python 
 
-## 🚀 Projets
+## 👩🏻‍🏫 Projets
 
 ### 1. Articles universitaires
 - **Description** : Articles de presse de l'université de langues de Strasbourg sur l'utilisation du logiciel Obsidian lors de l'analyse de donnée linguistiques et historiques.
