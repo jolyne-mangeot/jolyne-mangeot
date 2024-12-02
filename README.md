@@ -21,22 +21,21 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 ### 1. Articles universitaires
 - **Description** : Articles de presse de l'université de langues de Strasbourg sur l'utilisation du logiciel Obsidian lors de l'analyse de donnée linguistiques et historiques.
 - **Technologies utilisées** : Obsidian.md, HTML, Wordpress
-- **Lien** :
+- **Liens** :
   	- [Feuillets du Nord, Sagas islandaises : Quel support pour les synthétiser ? Obsidian 1](https://nord.hypotheses.org/5097)
   	- [Feuillets du Nord, # Obsidian 2](https://nord.hypotheses.org/6575)
 
 ### 2. Projet Morpion
-- **Description** : .
+- **Description** : Projet en groupe de conception d'un Tic-Tact-Toe fonctionnel en langage python uniquement.
 - **Technologies utilisées** : Obsidian.md, Python
-- **Lien** : [Lien vers le repo].
+- **Accès** : Repo "Projet-VSCODE_python
 
 ### 3. Projet Fansite
-- **Description** : [Brève description du projet].
+- **Description** : Projet en groupe de conception web sur une base de fanpage.
 - **Technologies utilisées** : Obsidian.md, HTML, CSS
-- **Lien** : [Lien vers le repo].
+- **Accès** : Repo "Projet-VSCODE_html
 
 ## 📫 Contact
 
-- **Stack overflow** : 
-- **GitHub** : [Ton Profil GitHub](https://github.com/TonNomGitHub)
+- **Stack overflow** : [user Jolyne](https://stackoverflow.com/users/28589708/jolyne)
 - Hihi les : **AMDligents🧠**
