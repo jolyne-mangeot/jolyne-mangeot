@@ -1,8 +1,6 @@
 # Jolyne coucou 🐍
-![index_background](index_background.jpg)
-
 Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplateforme.io/) depuis Oct. 2024
-
+![index_background](index_background.jpg)
 ## 🌱 Compétences
 
 <u>Langages :</u>
