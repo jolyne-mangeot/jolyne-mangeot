@@ -28,17 +28,17 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 ### 2. Projet Morpion
 - **Description** : Projet en groupe de conception d'un Tic-Tact-Toe fonctionnel en langage python uniquement.
 - **Technologies utilisées** : Obsidian.md, Python
-- **Accès** : [Repo *Projet-VSCODE_python*](https://github.com/joseph-mangeot/Projet_VSCODE-python)
+- **Accès** : [Repo *Projet-VSCODE_python*](https://github.com/jolyne-mangeot/Projet_VSCODE-python)
 
 ### 3. Projet Fansite
 - **Description** : Projet en groupe de conception web sur une base de fanpage.
 - **Technologies utilisées** : Obsidian.md, HTML, CSS
-- **Accès** : [Repo *Projet-VSCODE_html*](https://github.com/joseph-mangeot/Projet_VSCODE-html)
+- **Accès** : [Repo *Projet-VSCODE_html*](https://github.com/jolyne-mangeot/Projet_VSCODE-html)
     - [Projet final *fansite* hosted par Github](https://vladimir-gorbachev.github.io/fansite_project/index_home.html)
 
 ## 📫 Contact
 
-- **Mon portfolio !** : [Site hébergé](https://joseph-mangeot.github.io/portfolio/)
+- **Mon portfolio !** : [Site hébergé](https://jolyne-mangeot.github.io/portfolio/)
 - **Linkedin** : [Jolyne Mangeot](https://www.linkedin.com/in/jolyne-mangeot-359387340/)
 - **Stack overflow** : [user Jolyne](https://stackoverflow.com/users/28589708/jolyne)
 - Hihi les : **AMDligents🧠**
