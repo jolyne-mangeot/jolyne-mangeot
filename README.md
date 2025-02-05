@@ -28,7 +28,7 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 ### 2. Projet Fruits-Slicer
 - **Description** : Conceptualisation groupée d'un script en langage Python et à l'interface Pygame afin de générer un jeu avec niveaux de difficulté, traductions des textes et manipulation de sauvegardes.
 - **Technologies utilisées** : Python, JSON, pygame, script orienté objet
-- **Accès** : [Repo *Typing Game*](https://github.com/AdelinePat/typing_game)
+- **Accès** : [Repo *Typing Game*](https://github.com/AdelinePat/typing-game)
 
 ### 3. Projet Fansite
 - **Description** : Projet en groupe de conception web sur une base de fanpage.
