@@ -1,7 +1,8 @@
-# Jolyne coucou 🐍
+# Jolyne coucou 🐍 en recherche [d'alternance !](https://joseph-mangeot.students-laplateforme.io/)
 Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplateforme.io/) depuis Oct. 2024
 ---
 ![index_background](index_background.jpg)
+Fascinée par la manière dont les jeux vidéo racontent leur histoire à travers des mécaniques complexes mais pleines de sens, je nourris ma réflexion de chaque nouvelles façons que je découvre de concevoir des récits impactants et des personnages attachants grâce à des notions gameplay novatrices. Aujourd'hui, j'en ai l'ambition de mettre cette imagination en pratique et au service d'expériences nouvelles et changeantes.
 ## 🌱 Compétences
 
 <u>Langages :</u>
@@ -18,11 +19,11 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 
 ## 👩🏻‍🏫 Projets
 
-### 1. Projet Combat Pokémon
+### 1. Projet Obsidian Fighters
 - **Description** : Projet en groupe de réalisation d'un simulateur de combats inspirés de la série des jeux Pokémons comprenant alors toutes les fonctionnalités clés telles que la capture, la montée de niveau, l'évolution mais aussi la complétion du Pokédex.
 - **Technologies utilisées** : Python 3, Pygame, JSON, structure MVC
-- **Accès** : [Repo *Projet Pokémon*](https://github.com/jolyne-mangeot/pokemon)
-    - [*installer le jeu*](https://github.com/jolyne-mangeot/pokemon/archive/refs/heads/main.zip) (aucun module n'est nécessaire pour le lancement du jeu)
+- **Accès** : [Repo *Projet Pokémon*](https://github.com/jolyne-mangeot/obsidian_fighters)
+    - [*installer le jeu*](https://github.com/jolyne-mangeot/obsidian_fighters/archive/refs/heads/main.zip) (aucun module n'est nécessaire pour le lancement du jeu)
 
 ### 2. Projet Fruits-Slicer
 - **Description** : Conceptualisation groupée d'un script en langage Python et à l'interface Pygame afin de générer un jeu avec niveaux de difficulté, traductions des textes et manipulation de sauvegardes.
@@ -38,9 +39,7 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 
 ## 📫 Contact
 
-- [**Mon portfolio !**](https://jolyne-mangeot.github.io/portfolio/)
-- [**Mon CV !**](https://jolyne-mangeot.github.io/portfolio/cv_jMANGEOT.pdf)
-- [**Partagez mon Github !**](https://github.com/jolyne-mangeot)
+- [**Mon portfolio !**](https://joseph-mangeot.students-laplateforme.io/)
 - [**Stack overflow**](https://stackoverflow.com/users/28589708/jolyne)
 
 - Hihi les : **AMDligents🧠**
