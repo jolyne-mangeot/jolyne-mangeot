@@ -14,9 +14,9 @@ Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplate
 - **CS-Paint, Figma, canva** : Réalisations visuelles, montage photo
 
 <u>à venir :</u>
-- **Java** : Programmation logicielle, scripts sommaires.
-- **C++** : Programmation poussée
-- **Flask** : Introduction aux applications et intégrations Python 
+- **Java** : Programmation logicielle, scripts de logiciels
+- **C++** : Programmation poussée, optimisation
+- **MySQL** : Création, gestion et intégration d'une base de données dans un script
 
 ## 👩🏻‍🏫 Projets
 
