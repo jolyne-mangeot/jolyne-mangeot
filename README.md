@@ -1,8 +1,9 @@
 # Jolyne coucou 🐍 en recherche [d'alternance !](https://joseph-mangeot.students-laplateforme.io/)
+Fascinée par la manière dont les jeux vidéo racontent leur histoire à travers des mécaniques complexes mais pleines de sens, je nourris ma réflexion de chaque nouvelles façons que je découvre de concevoir des récits impactants et des personnages attachants grâce à des notions gameplay novatrices. Aujourd'hui, j'en ai l'ambition de mettre cette imagination en pratique et au service d'expériences nouvelles et changeantes.
+
 Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplateforme.io/) depuis Oct. 2024
 ---
 ![index_background](index_background.jpg)
-Fascinée par la manière dont les jeux vidéo racontent leur histoire à travers des mécaniques complexes mais pleines de sens, je nourris ma réflexion de chaque nouvelles façons que je découvre de concevoir des récits impactants et des personnages attachants grâce à des notions gameplay novatrices. Aujourd'hui, j'en ai l'ambition de mettre cette imagination en pratique et au service d'expériences nouvelles et changeantes.
 ## 🌱 Compétences
 
 <u>Langages :</u>
