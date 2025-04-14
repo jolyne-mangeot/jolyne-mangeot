@@ -1,22 +1,24 @@
-# Jolyne coucou 🐍 en recherche [d'alternance !](https://joseph-mangeot.students-laplateforme.io/)
+# Jolyne coucou 🐍 [en recherche d'alternance !](https://joseph-mangeot.students-laplateforme.io/)
 Fascinée par la manière dont les jeux vidéo racontent leur histoire à travers des mécaniques complexes mais pleines de sens, je nourris ma réflexion de chaque nouvelles façons que je découvre de concevoir des récits impactants et des personnages attachants grâce à des notions de gameplay novatrices. Aujourd'hui, j'en ai l'ambition de mettre cette imagination en pratique et au service d'expériences nouvelles et changeantes.
 
-Culture dev et numérique, étudiante B1 @ [LaPlateforme_](https://laplateforme.io/) depuis Oct. 2024
+Culture dev et numérique, étudiante [B1 @ LaPlateforme_](https://laplateforme.io/) depuis Oct. 2024
 ---
 ![index_background](index_background.jpg)
 ## 🌱 Compétences
 
 <u>Langages :</u>
 - **Python, Pygame** : Création de scripts en programmation orientée objet et de modules
+- **C** : Programmation poussée, optimisation
 - **JSON** : Manipulation de fichiers de sauvegarde, de traductions et de paramètres
-- **HTML, CSS** : Création de pages web mises en page et stylisées.
-- **Git, Obsidian md** : Gestion de données et organisation des idées.
+- **MySQL** : Création, gestion et intégration d'une base de données dans un script
+- **HTML, CSS** : Création de pages web mises en page et stylisées
+- **Git, Obsidian md** : Gestion de données et organisation des idées
 - **CS-Paint, Figma, canva** : Réalisations visuelles, montage photo
 
-<u>à venir :</u>
+<u>à venir cette année :</u>
 - **Java** : Programmation logicielle, scripts de logiciels
 - **C++** : Programmation poussée, optimisation
-- **MySQL** : Création, gestion et intégration d'une base de données dans un script
+- [voir le programme de ma formation !](https://laplateforme.io/bachelor-it/developpeur-systemes-immersifs-image-numerique/)
 
 ## 👩🏻‍🏫 Projets
 
