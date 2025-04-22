@@ -42,7 +42,7 @@ Culture dev et numérique, étudiante [B1 @ LaPlateforme_](https://laplate
 
 ## 📫 Contact
 
-- [**Mon portfolio !**](https://joseph-mangeot.students-laplateforme.io/)
+- [**Mon portfolio !**](https://jolyne-mangeot.github.io/portfolio/)
 - [**Stack overflow**](https://stackoverflow.com/users/28589708/jolyne)
 
 - Hihi les : **AMDligents🧠**
