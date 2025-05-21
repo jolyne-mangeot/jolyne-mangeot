@@ -7,17 +7,18 @@ Culture dev et numérique, étudiante [B1 @ LaPlateforme_](https://laplate
 ## 🌱 Compétences
 
 <u>Langages :</u>
-- **Python, Pygame** : Création de scripts en programmation orientée objet et de modules
-- **C** : Programmation poussée, optimisation
+- **Python, Pygame** : Création de scripts en programmation orientée objet
+- **C / C++** : Programmation poussée, optimisation
 - **JSON** : Manipulation de fichiers de sauvegarde, de traductions et de paramètres
 - **MySQL** : Création, gestion et intégration d'une base de données dans un script
 - **HTML, CSS** : Création de pages web mises en page et stylisées
+
+<u>Outils :</u>
 - **Git, Obsidian md** : Gestion de données et organisation des idées
 - **CS-Paint, Figma, canva** : Réalisations visuelles, montage photo
 
 <u>à venir cette année :</u>
 - **Java** : Programmation logicielle, scripts de logiciels
-- **C++** : Programmation poussée, optimisation
 - [voir le programme de ma formation !](https://laplateforme.io/bachelor-it/developpeur-systemes-immersifs-image-numerique/)
 
 ## 👩🏻‍🏫 Projets
