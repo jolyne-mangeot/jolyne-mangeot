@@ -27,7 +27,7 @@ Culture dev et numérique, étudiante [B1 @ LaPlateforme_](https://laplate
 - **Description** : Projet en groupe de réalisation d'un simulateur de combats inspirés de la série des jeux Pokémons comprenant alors toutes les fonctionnalités clés telles que la capture, la montée de niveau, l'évolution mais aussi la complétion du Pokédex.
 - **Technologies utilisées** : Python 3, Pygame, JSON, structure MVC
 - **Accès** : [Repo *Projet Pokémon*](https://github.com/jolyne-mangeot/obsidian_fighters)
-    - [*installer le jeu*](https://github.com/jolyne-mangeot/obsidian_fighters/archive/refs/heads/main.zip) (aucun module n'est nécessaire pour le lancement du jeu)
+    - [*installer le jeu*](https://github.com/jolyne-mangeot/obsidian_fighters/releases/tag/Release)
 
 ### 2. Projet Fruits-Slicer
 - **Description** : Conceptualisation groupée d'un script en langage Python et à l'interface Pygame afin de générer un jeu avec niveaux de difficulté, traductions des textes et manipulation de sauvegardes.
